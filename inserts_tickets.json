@@ -1,0 +1,842 @@
+// Tickets version 1
+[
+
+
+{
+    "client_id": 1,
+    "description": "El botón de enviar formulario no funciona",
+    "priority": 1,
+    "product_version_id": 1,
+    "resource_name": "John Smith",
+    "severity": 1,
+    "title": "Error en el botón de envío"
+},
+
+{
+    "client_id": 2,
+    "description": "La página de inicio tarda demasiado en cargar",
+    "priority": 2,
+    "product_version_id": 1,
+    "resource_name": "Emma Johnson",
+    "severity": 2,
+    "title": "Retraso en la carga de la página de inicio"
+    },
+    
+    {
+        "client_id": 3,
+        "description": "El carrito de compras no muestra los productos agregados",
+        "priority": 3,
+        "product_version_id": 1,
+        "resource_name": "Michael Davis",
+        "severity": 3,
+        "title": "Problema con el carrito de compras"
+    },
+    
+    {
+        "client_id": 4,
+        "description": "No se pueden subir imágenes al perfil de usuario",
+        "priority": 1,
+        "product_version_id": 1,
+        "resource_name": "Sophia Anderson",
+        "severity": 1,
+        "title": "Incapacidad para cargar imágenes de perfil"
+    },
+    
+    {
+        "client_id": 5,
+        "description": "El sistema muestra un error al intentar realizar una compra",
+    "priority": 2,
+    "product_version_id": 1,
+    "resource_name": "Oliver Martinez",
+    "severity": 2,
+    "title": "Error al intentar realizar una compra"
+},
+
+{
+    "client_id": 6,
+    "description": "Los mensajes privados no se envían correctamente",
+    "priority": 3,
+    "product_version_id": 1,
+    "resource_name": "Ava Thompson",
+    "severity": 3,
+    "title": "Fallo en el envío de mensajes privados"
+},
+
+{
+    "client_id": 7,
+    "description": "Las imágenes de los productos no se cargan en la galería",
+    "priority": 1,
+    "product_version_id": 1,
+    "resource_name": "Liam Harris",
+    "severity": 1,
+    "title": "Imágenes de productos no visibles en la galería"
+},
+
+{
+    "client_id": 8,
+    "description": "El menú desplegable no muestra todas las opciones disponibles",
+    "priority": 2,
+    "product_version_id": 1,
+    "resource_name": "Mia Walker",
+    "severity": 2,
+    "title": "Falta de opciones en el menú desplegable"
+},
+
+{
+    "client_id": 9,
+    "description": "La función de búsqueda no muestra resultados correctos",
+    "priority": 3,
+    "product_version_id": 1,
+    "resource_name": "Noah Turner",
+    "severity": 3,
+    "title": "Problema en la función de búsqueda"
+},
+
+
+
+// Tickets version 2
+{
+    "client_id": 1,
+    "description": "Error al guardar los cambios en la configuración de cuenta",
+    "priority": 1,
+    "product_version_id": 2,
+    "resource_name": "John Smith",
+    "severity": 1,
+    "title": "Error al guardar cambios de configuración"
+    },
+    
+    {
+    "client_id": 2,
+    "description": "No se puede reproducir el video en la sección de tutoriales",
+    "priority": 2,
+    "product_version_id": 2,
+    "resource_name": "Emma Johnson",
+    "severity": 2,
+    "title": "Problema de reproducción de video"
+    },
+    
+    {
+    "client_id": 3,
+    "description": "El carrito de compras muestra un total incorrecto al realizar el pago",
+    "priority": 3,
+    "product_version_id": 2,
+    "resource_name": "Michael Davis",
+    "severity": 3,
+    "title": "Total incorrecto en el carrito de compras"
+    },
+    
+    {
+    "client_id": 4,
+    "description": "La función de búsqueda no encuentra productos relevantes",
+    "priority": 1,
+    "product_version_id": 2,
+    "resource_name": "Sophia Anderson",
+    "severity": 1,
+    "title": "Problema en la función de búsqueda"
+    },
+    
+    {
+    "client_id": 5,
+    "description": "El sistema muestra un error al agregar artículos al carrito de compras",
+    "priority": 2,
+    "product_version_id": 2,
+    "resource_name": "Oliver Martinez",
+    "severity": 2,
+    "title": "Error al agregar artículos al carrito"
+    },
+    
+    {
+    "client_id": 6,
+    "description": "No se puede acceder a la sección de descargas de archivos",
+    "priority": 3,
+    "product_version_id": 2,
+    "resource_name": "Ava Thompson",
+    "severity": 3,
+    "title": "Inaccesibilidad de la sección de descargas"
+    },
+    
+    {
+    "client_id": 7,
+    "description": "La opción de cambio de idioma no funciona correctamente",
+    "priority": 1,
+    "product_version_id": 2,
+    "resource_name": "Liam Harris",
+    "severity": 1,
+    "title": "Problema con el cambio de idioma"
+    },
+    
+    {
+    "client_id": 8,
+    "description": "La página de preguntas frecuentes no se muestra correctamente",
+    "priority": 2,
+    "product_version_id": 2,
+    "resource_name": "Mia Walker",
+    "severity": 2,
+    "title": "Error en la visualización de preguntas frecuentes"
+    },
+    
+    {
+    "client_id": 9,
+    "description": "El formulario de contacto no envía los mensajes a los administradores",
+    "priority": 3,
+    "product_version_id": 2,
+    "resource_name": "Noah Turner",
+    "severity": 3,
+    "title": "Fallo en el envío de mensajes de contacto"
+    },
+    
+    {
+    "client_id": 10,
+    "description": "Las imágenes de los productos no se cargan correctamente en la página de detalles",
+    "priority": 1,
+    "product_version_id": 2,
+    "resource_name": "Isabella Lee",
+    "severity": 1,
+    "title": "Error en la carga de imágenes de productos"
+    },
+
+
+// Tickets version 3
+{
+    "client_id": 1,
+    "description": "El botón de enviar formulario no funciona",
+    "priority": 1,
+    "product_version_id": 3,
+    "resource_name": "John Smith",
+    "severity": 1,
+    "title": "Error en el botón de envío"
+},
+
+{
+    "client_id": 2,
+    "description": "La página de inicio tarda demasiado en cargar",
+    "priority": 2,
+    "product_version_id": 3,
+    "resource_name": "Emma Johnson",
+    "severity": 2,
+    "title": "Retraso en la carga de la página de inicio"
+    },
+    
+    {
+        "client_id": 3,
+        "description": "El carrito de compras no muestra los productos agregados",
+        "priority": 3,
+        "product_version_id": 3,
+        "resource_name": "Michael Davis",
+        "severity": 3,
+        "title": "Problema con el carrito de compras"
+    },
+    
+    {
+        "client_id": 4,
+        "description": "No se pueden subir imágenes al perfil de usuario",
+        "priority": 1,
+        "product_version_id": 3,
+        "resource_name": "Sophia Anderson",
+        "severity": 1,
+        "title": "Incapacidad para cargar imágenes de perfil"
+    },
+    
+    {
+        "client_id": 5,
+        "description": "El sistema muestra un error al intentar realizar una compra",
+    "priority": 2,
+    "product_version_id": 3,
+    "resource_name": "Oliver Martinez",
+    "severity": 2,
+    "title": "Error al intentar realizar una compra"
+},
+
+{
+    "client_id": 6,
+    "description": "Los mensajes privados no se envían correctamente",
+    "priority": 3,
+    "product_version_id": 3,
+    "resource_name": "Ava Thompson",
+    "severity": 3,
+    "title": "Fallo en el envío de mensajes privados"
+},
+
+{
+    "client_id": 7,
+    "description": "Las imágenes de los productos no se cargan en la galería",
+    "priority": 1,
+    "product_version_id": 3,
+    "resource_name": "Liam Harris",
+    "severity": 1,
+    "title": "Imágenes de productos no visibles en la galería"
+},
+
+{
+    "client_id": 8,
+    "description": "El menú desplegable no muestra todas las opciones disponibles",
+    "priority": 2,
+    "product_version_id": 3,
+    "resource_name": "Mia Walker",
+    "severity": 2,
+    "title": "Falta de opciones en el menú desplegable"
+},
+
+{
+    "client_id": 9,
+    "description": "La función de búsqueda no muestra resultados correctos",
+    "priority": 3,
+    "product_version_id": 3,
+    "resource_name": "Noah Turner",
+    "severity": 3,
+    "title": "Problema en la función de búsqueda"
+},
+
+
+// Tickets version 4
+{
+    "client_id": 1,
+    "description": "El botón de enviar formulario no funciona",
+    "priority": 1,
+    "product_version_id": 1,
+    "resource_name": "John Smith",
+    "severity": 1,
+    "title": "Error en el botón de envío"
+},
+
+    {
+        "client_id": 2,
+        "description": "La página de inicio tarda demasiado en cargar",
+        "priority": 2,
+        "product_version_id": 4,
+        "resource_name": "Emma Johnson",
+        "severity": 2,
+        "title": "Retraso en la carga de la página de inicio"
+    },
+    
+    {
+        "client_id": 3,
+        "description": "El carrito de compras no muestra los productos agregados",
+        "priority": 3,
+        "product_version_id": 4,
+        "resource_name": "Michael Davis",
+        "severity": 3,
+        "title": "Problema con el carrito de compras"
+    },
+    
+    {
+        "client_id": 4,
+        "description": "No se pueden subir imágenes al perfil de usuario",
+        "priority": 1,
+        "product_version_id": 4,
+        "resource_name": "Sophia Anderson",
+        "severity": 1,
+        "title": "Incapacidad para cargar imágenes de perfil"
+    },
+    
+    {
+        "client_id": 5,
+        "description": "El sistema muestra un error al intentar realizar una compra",
+        "priority": 2,
+        "product_version_id": 4,
+        "resource_name": "Oliver Martinez",
+        "severity": 2,
+        "title": "Error al intentar realizar una compra"
+    },
+
+    {
+        "client_id": 6,
+        "description": "Los mensajes privados no se envían correctamente",
+        "priority": 3,
+        "product_version_id": 4,
+        "resource_name": "Ava Thompson",
+        "severity": 3,
+        "title": "Fallo en el envío de mensajes privados"
+    },
+
+    {
+        "client_id": 7,
+        "description": "Las imágenes de los productos no se cargan en la galería",
+        "priority": 1,
+        "product_version_id": 4,
+        "resource_name": "Liam Harris",
+        "severity": 1,
+        "title": "Imágenes de productos no visibles en la galería"
+    },
+
+    {
+        "client_id": 8,
+        "description": "El menú desplegable no muestra todas las opciones disponibles",
+        "priority": 2,
+        "product_version_id": 4,
+        "resource_name": "Mia Walker",
+        "severity": 2,
+        "title": "Falta de opciones en el menú desplegable"
+    },
+
+    {
+        "client_id": 9,
+        "description": "La función de búsqueda no muestra resultados correctos",
+        "priority": 3,
+        "product_version_id": 4,
+        "resource_name": "Noah Turner",
+        "severity": 3,
+        "title": "Problema en la función de búsqueda"
+    },
+
+
+// Tickets version 5
+{
+    "client_id": 1,
+    "description": "Error al guardar los cambios en la configuración de cuenta",
+    "priority": 1,
+    "product_version_id": 5,
+    "resource_name": "John Smith",
+    "severity": 1,
+    "title": "Error al guardar cambios de configuración"
+    },
+    
+    {
+    "client_id": 2,
+    "description": "No se puede reproducir el video en la sección de tutoriales",
+    "priority": 2,
+    "product_version_id": 5,
+    "resource_name": "Emma Johnson",
+    "severity": 2,
+    "title": "Problema de reproducción de video"
+    },
+    
+    {
+    "client_id": 3,
+    "description": "El carrito de compras muestra un total incorrecto al realizar el pago",
+    "priority": 3,
+    "product_version_id": 5,
+    "resource_name": "Michael Davis",
+    "severity": 3,
+    "title": "Total incorrecto en el carrito de compras"
+    },
+    
+    {
+    "client_id": 4,
+    "description": "La función de búsqueda no encuentra productos relevantes",
+    "priority": 1,
+    "product_version_id": 5,
+    "resource_name": "Sophia Anderson",
+    "severity": 1,
+    "title": "Problema en la función de búsqueda"
+    },
+    
+    {
+    "client_id": 5,
+    "description": "El sistema muestra un error al agregar artículos al carrito de compras",
+    "priority": 2,
+    "product_version_id": 5,
+    "resource_name": "Oliver Martinez",
+    "severity": 2,
+    "title": "Error al agregar artículos al carrito"
+    },
+    
+    {
+    "client_id": 6,
+    "description": "No se puede acceder a la sección de descargas de archivos",
+    "priority": 3,
+    "product_version_id": 5,
+    "resource_name": "Ava Thompson",
+    "severity": 3,
+    "title": "Inaccesibilidad de la sección de descargas"
+    },
+    
+    {
+    "client_id": 7,
+    "description": "La opción de cambio de idioma no funciona correctamente",
+    "priority": 1,
+    "product_version_id": 5,
+    "resource_name": "Liam Harris",
+    "severity": 1,
+    "title": "Problema con el cambio de idioma"
+    },
+    
+    {
+    "client_id": 8,
+    "description": "La página de preguntas frecuentes no se muestra correctamente",
+    "priority": 2,
+    "product_version_id": 5,
+    "resource_name": "Mia Walker",
+    "severity": 2,
+    "title": "Error en la visualización de preguntas frecuentes"
+    },
+    
+    {
+    "client_id": 9,
+    "description": "El formulario de contacto no envía los mensajes a los administradores",
+    "priority": 3,
+    "product_version_id": 5,
+    "resource_name": "Noah Turner",
+    "severity": 3,
+    "title": "Fallo en el envío de mensajes de contacto"
+    },
+    
+    {
+    "client_id": 10,
+    "description": "Las imágenes de los productos no se cargan correctamente en la página de detalles",
+    "priority": 1,
+    "product_version_id": 5,
+    "resource_name": "Isabella Lee",
+    "severity": 1,
+    "title": "Error en la carga de imágenes de productos"
+    },
+
+
+// Tickets version 6
+{
+    "client_id": 1,
+    "description": "Error al guardar los cambios en la configuración de cuenta",
+    "priority": 1,
+    "product_version_id": 6,
+    "resource_name": "John Smith",
+    "severity": 1,
+    "title": "Error al guardar cambios de configuración"
+    },
+    
+    {
+    "client_id": 2,
+    "description": "No se puede reproducir el video en la sección de tutoriales",
+    "priority": 2,
+    "product_version_id": 6,
+    "resource_name": "Emma Johnson",
+    "severity": 2,
+    "title": "Problema de reproducción de video"
+    },
+    
+    {
+    "client_id": 3,
+    "description": "El carrito de compras muestra un total incorrecto al realizar el pago",
+    "priority": 3,
+    "product_version_id": 6,
+    "resource_name": "Michael Davis",
+    "severity": 3,
+    "title": "Total incorrecto en el carrito de compras"
+    },
+    
+    {
+    "client_id": 4,
+    "description": "La función de búsqueda no encuentra productos relevantes",
+    "priority": 1,
+    "product_version_id": 6,
+    "resource_name": "Sophia Anderson",
+    "severity": 1,
+    "title": "Problema en la función de búsqueda"
+    },
+    
+    {
+    "client_id": 5,
+    "description": "El sistema muestra un error al agregar artículos al carrito de compras",
+    "priority": 2,
+    "product_version_id": 6,
+    "resource_name": "Oliver Martinez",
+    "severity": 2,
+    "title": "Error al agregar artículos al carrito"
+    },
+    
+    {
+    "client_id": 6,
+    "description": "No se puede acceder a la sección de descargas de archivos",
+    "priority": 3,
+    "product_version_id": 6,
+    "resource_name": "Ava Thompson",
+    "severity": 3,
+    "title": "Inaccesibilidad de la sección de descargas"
+    },
+    
+    {
+    "client_id": 7,
+    "description": "La opción de cambio de idioma no funciona correctamente",
+    "priority": 1,
+    "product_version_id": 6,
+    "resource_name": "Liam Harris",
+    "severity": 1,
+    "title": "Problema con el cambio de idioma"
+    },
+    
+    {
+    "client_id": 8,
+    "description": "La página de preguntas frecuentes no se muestra correctamente",
+    "priority": 2,
+    "product_version_id": 6,
+    "resource_name": "Mia Walker",
+    "severity": 2,
+    "title": "Error en la visualización de preguntas frecuentes"
+    },
+    
+    {
+    "client_id": 9,
+    "description": "El formulario de contacto no envía los mensajes a los administradores",
+    "priority": 3,
+    "product_version_id": 6,
+    "resource_name": "Noah Turner",
+    "severity": 3,
+    "title": "Fallo en el envío de mensajes de contacto"
+    },
+    
+    {
+    "client_id": 10,
+    "description": "Las imágenes de los productos no se cargan correctamente en la página de detalles",
+    "priority": 1,
+    "product_version_id": 6,
+    "resource_name": "Isabella Lee",
+    "severity": 1,
+    "title": "Error en la carga de imágenes de productos"
+    },
+
+
+// Tickets version 7
+{
+    "client_id": 2,
+    "description": "La página de inicio tarda demasiado en cargar",
+    "priority": 2,
+    "product_version_id": 7,
+    "resource_name": "Emma Johnson",
+    "severity": 2,
+    "title": "Retraso en la carga de la página de inicio"
+},
+
+{
+    "client_id": 3,
+    "description": "El carrito de compras no muestra los productos agregados",
+    "priority": 3,
+    "product_version_id": 7,
+    "resource_name": "Michael Davis",
+    "severity": 3,
+    "title": "Problema con el carrito de compras"
+},
+
+{
+    "client_id": 4,
+    "description": "No se pueden subir imágenes al perfil de usuario",
+    "priority": 1,
+    "product_version_id": 7,
+    "resource_name": "Sophia Anderson",
+    "severity": 1,
+    "title": "Incapacidad para cargar imágenes de perfil"
+},
+
+{
+    "client_id": 5,
+    "description": "El sistema muestra un error al intentar realizar una compra",
+    "priority": 2,
+    "product_version_id": 7,
+    "resource_name": "Oliver Martinez",
+    "severity": 2,
+    "title": "Error al intentar realizar una compra"
+},
+
+{
+    "client_id": 6,
+    "description": "Los mensajes privados no se envían correctamente",
+    "priority": 3,
+    "product_version_id": 7,
+    "resource_name": "Ava Thompson",
+    "severity": 3,
+    "title": "Fallo en el envío de mensajes privados"
+},
+
+{
+    "client_id": 7,
+    "description": "Las imágenes de los productos no se cargan en la galería",
+    "priority": 1,
+    "product_version_id": 7,
+    "resource_name": "Liam Harris",
+    "severity": 1,
+    "title": "Imágenes de productos no visibles en la galería"
+},
+
+{
+    "client_id": 8,
+    "description": "El menú desplegable no muestra todas las opciones disponibles",
+    "priority": 2,
+    "product_version_id": 7,
+    "resource_name": "Mia Walker",
+    "severity": 2,
+    "title": "Falta de opciones en el menú desplegable"
+},
+
+{
+    "client_id": 9,
+    "description": "La función de búsqueda no muestra resultados correctos",
+    "priority": 3,
+    "product_version_id": 7,
+    "resource_name": "Noah Turner",
+    "severity": 3,
+    "title": "Problema en la función de búsqueda"
+},
+// Tickets version 8
+{
+    "client_id": 2,
+    "description": "La página de inicio tarda demasiado en cargar",
+    "priority": 2,
+    "product_version_id": 8,
+    "resource_name": "Emma Johnson",
+    "severity": 2,
+    "title": "Retraso en la carga de la página de inicio"
+},
+{
+    "client_id": 3,
+    "description": "El carrito de compras no muestra los productos agregados",
+    "priority": 3,
+    "product_version_id": 8,
+    "resource_name": "Michael Davis",
+    "severity": 3,
+    "title": "Problema con el carrito de compras"
+},
+{
+    "client_id": 4,
+    "description": "No se pueden subir imágenes al perfil de usuario",
+    "priority": 1,
+    "product_version_id": 8,
+    "resource_name": "Sophia Anderson",
+    "severity": 1,
+    "title": "Incapacidad para cargar imágenes de perfil"
+},
+
+{
+    "client_id": 5,
+    "description": "El sistema muestra un error al intentar realizar una compra",
+    "priority": 2,
+    "product_version_id": 8,
+    "resource_name": "Oliver Martinez",
+    "severity": 2,
+    "title": "Error al intentar realizar una compra"
+},
+
+{
+    "client_id": 6,
+    "description": "Los mensajes privados no se envían correctamente",
+    "priority": 3,
+    "product_version_id": 8,
+    "resource_name": "Ava Thompson",
+    "severity": 3,
+    "title": "Fallo en el envío de mensajes privados"
+},
+
+{
+    "client_id": 7,
+    "description": "Las imágenes de los productos no se cargan en la galería",
+    "priority": 1,
+    "product_version_id": 8,
+    "resource_name": "Liam Harris",
+    "severity": 1,
+    "title": "Imágenes de productos no visibles en la galería"
+},
+
+{
+    "client_id": 8,
+    "description": "El menú desplegable no muestra todas las opciones disponibles",
+    "priority": 2,
+    "product_version_id": 8,
+    "resource_name": "Mia Walker",
+    "severity": 2,
+    "title": "Falta de opciones en el menú desplegable"
+},
+
+{
+    "client_id": 9,
+    "description": "La función de búsqueda no muestra resultados correctos",
+    "priority": 3,
+    "product_version_id": 8,
+    "resource_name": "Noah Turner",
+    "severity": 3,
+    "title": "Problema en la función de búsqueda"
+},
+
+
+// Tickets version 9
+{
+    "client_id": 1,
+    "description": "Error al guardar los cambios en la configuración de cuenta",
+    "priority": 1,
+    "product_version_id": 9,
+    "resource_name": "John Smith",
+    "severity": 1,
+    "title": "Error al guardar cambios de configuración"
+    },
+    
+    {
+    "client_id": 2,
+    "description": "No se puede reproducir el video en la sección de tutoriales",
+    "priority": 2,
+    "product_version_id": 9,
+    "resource_name": "Emma Johnson",
+    "severity": 2,
+    "title": "Problema de reproducción de video"
+    },
+    
+    {
+    "client_id": 3,
+    "description": "El carrito de compras muestra un total incorrecto al realizar el pago",
+    "priority": 3,
+    "product_version_id": 9,
+    "resource_name": "Michael Davis",
+    "severity": 3,
+    "title": "Total incorrecto en el carrito de compras"
+    },
+    
+    {
+    "client_id": 4,
+    "description": "La función de búsqueda no encuentra productos relevantes",
+    "priority": 1,
+    "product_version_id": 9,
+    "resource_name": "Sophia Anderson",
+    "severity": 1,
+    "title": "Problema en la función de búsqueda"
+    },
+    
+    {
+    "client_id": 5,
+    "description": "El sistema muestra un error al agregar artículos al carrito de compras",
+    "priority": 2,
+    "product_version_id": 9,
+    "resource_name": "Oliver Martinez",
+    "severity": 2,
+    "title": "Error al agregar artículos al carrito"
+    },
+    {
+        "client_id": 6,
+        "description": "No se puede acceder a la sección de descargas de archivos",
+        "priority": 3,
+        "product_version_id": 9,
+        "resource_name": "Ava Thompson",
+        "severity": 3,
+        "title": "Inaccesibilidad de la sección de descargas"
+    },
+    {
+        "client_id": 7,
+        "description": "La opción de cambio de idioma no funciona correctamente",
+        "priority": 1,
+        "product_version_id": 9,
+        "resource_name": "Liam Harris",
+        "severity": 1,
+        "title": "Problema con el cambio de idioma"
+    },
+    {
+        "client_id": 8,
+        "description": "La página de preguntas frecuentes no se muestra correctamente",
+        "priority": 2,
+        "product_version_id": 9,
+        "resource_name": "Mia Walker",
+        "severity": 2,
+        "title": "Error en la visualización de preguntas frecuentes"
+    },
+    {
+        "client_id": 9,
+        "description": "El formulario de contacto no envía los mensajes a los administradores",
+        "priority": 3,
+        "product_version_id": 9,
+        "resource_name": "Noah Turner",
+        "severity": 3,
+        "title": "Fallo en el envío de mensajes de contacto"
+    },
+    {
+        "client_id": 10,
+        "description": "Las imágenes de los productos no se cargan correctamente en la página de detalles",
+        "priority": 1,
+        "product_version_id": 9,
+        "resource_name": "Isabella Lee",
+        "severity": 1,
+        "title": "Error en la carga de imágenes de productos"
+    }
+]

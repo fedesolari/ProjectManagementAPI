@@ -1,0 +1,35 @@
+version: "3.8"
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: ./Dockerfile-dev
+    depends_on:
+      - db
+    volumes:
+      - ./services/web/:/usr/src/app/
+    ports:
+      - "5000:80"
+    environment:
+      - FLASK_APP=project/__init__.py
+      - FLASK_ENV=development
+      - ENV=local
+    env_file:
+      - .env.dev
+
+  db:
+    image: postgres:14.2-alpine
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=pass
+    ports:
+      - "5434:5432"
+    volumes:
+      - db:/var/lib/postgresql/data
+
+
+volumes:
+  db:
+    driver: local

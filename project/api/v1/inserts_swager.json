@@ -1,0 +1,88 @@
+ {
+  "client_id": 1,
+  "description": "El botón de enviar formulario no funciona",
+  "priority": 1,
+  "product_version_id": 2,
+  "resource_name": "Formulario",
+  "severity": 1,
+  "title": "Error en el botón de envío"
+  }
+  
+  {
+  "client_id": 1,
+  "description": "La página de inicio tarda demasiado en cargar",
+  "priority": 2,
+  "product_version_id": 1,
+  "resource_name": "Página de inicio",
+  "severity": 2,
+  "title": "Retraso en la carga de la página de inicio"
+  }
+  
+  {
+  "client_id": 2,
+  "description": "El enlace de restablecimiento de contraseña no funciona",
+  "priority": 3,
+  "product_version_id": 2,
+  "resource_name": "Restablecimiento de contraseña",
+  "severity": 3,
+  "title": "Enlace de restablecimiento de contraseña roto"
+  }
+  
+  {
+  "client_id": 2,
+  "description": "El carrito de compras no muestra los productos agregados",
+  "priority": 2,
+  "product_version_id": 1,
+  "resource_name": "Carrito de compras",
+  "severity": 2,
+  "title": "Problema con la visualización del carrito de compras"
+  }
+  
+  {
+  "client_id": 1,
+  "description": "No se pueden subir imágenes al perfil de usuario",
+  "priority": 3,
+  "product_version_id": 2,
+  "resource_name": "Perfil de usuario",
+  "severity": 3,
+  "title": "Incapacidad para cargar imágenes de perfil"
+  }
+  
+  {
+  "client_id": 1,
+  "description": "El sistema muestra un error al intentar realizar una compra",
+  "priority": 1,
+  "product_version_id": 2,
+  "resource_name": "Proceso de compra",
+  "severity": 1,
+  "title": "Error al intentar realizar una compra"
+  }
+  
+  {
+  "client_id": 1,
+  "description": "Los mensajes privados no se envían correctamente",
+  "priority": 2,
+  "product_version_id": 1,
+  "resource_name": "Mensajes privados",
+  "severity": 2,
+  "title": "Fallo en el envío de mensajes privados"
+  }
+  
+  {
+  "client_id": 2,
+  "description": "Las imágenes de los productos no se cargan en la galería",
+  "priority": 3,
+  "product_version_id": 2,
+  "resource_name": "Galería de productos",
+  "severity": 3,
+  "title": "Imágenes de productos no visibles en la galería"
+  }
+  
+  {
+  "client_id": 1,
+  "description": "El menú desplegable no muestra todas las opciones disponibles",
+  "priority": 2,
+  "product_version_id": 1,
+  "resource_name": "Menú desplegable",
+  "severity": 2,
+  "title": "Falta de opciones en el menú desplegable"
